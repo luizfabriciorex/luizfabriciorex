@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Luiz Fabrício e sejam bem-vindos ao meu perfil😁</h1>
 
 - 🔭 Atualmente, ainda não trabalho como desenvolvedor,mas busco uma oportunidade no campo.
-- 📚 Estudando Python. 
+- 📚 Estudando Desenvolvimento Web & Mobile. 
 - 😄 Pronouns: ele/dele
 
 <!--Minhas estatísticas-->
