@@ -1,7 +1,7 @@
 <h2>Olá! Me chamo Luiz Fabrício e sejam bem-vindos ao meu perfil😄</h2>
 
 - 🚩 Atualmente, ainda não trabalho como desenvolvedor, mas busco uma oportunidade no campo.
-- 📚 Estudando Desenvolvimento Web & Mobile. 
+- 📚 Estudando programação com Python🐍. 
 - 🟠 Do you really know how it all works? 
 
 <!--Minhas estatísticas-->
