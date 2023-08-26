@@ -1,7 +1,7 @@
-<h2>Olá! Me chamo Luiz Fabrício e sejam bem-vindos ao meu perfil😄</h2>
+<h2>Olá! Me chamo Fabrício e sejam bem-vindos ao meu perfil😄</h2>
 
-- 🚩 Atualmente, ainda não trabalho como desenvolvedor, mas busco uma oportunidade no campo.
-- 📚 Estudando programação com Python🐍. 
+- 🚩 Atualmente, ainda não trabalho como desenvolvedor, mas busco uma oportunidade na área.
+- 📚 Estudando desenvolvimento web e POO com Python🐍. 
 - 🟠 Do you really know how it all works? 
 
 <!--Minhas estatísticas-->
@@ -27,11 +27,8 @@
   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <br>
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 </div>
 
 
