@@ -9,11 +9,11 @@
 <p align="center">
   <a href="https://github.com/luizfabriciorex">
     
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=luizfabriciorex&show_icons=true&count_private=true&theme=vue&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=luizfabriciorex&show_icons=true&count_private=true&theme=javascript&border_radius=25&hide_border=true&hide=issues,contribs&bg_color=00000000">
   
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfabriciorex&layout=compact&hide_border=true&theme=vue&bg_color=00000000&langs_count=16">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfabriciorex&layout=compact&hide_border=true&theme=javascript&border_radius=25&bg_color=00000000&langs_count=16">
   
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=luizfabriciorex&theme=vue-dark&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=luizfabriciorex&theme=javascript&border_radius=1.0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D](https://github-readme-streak-stats.herokuapp.com?user=luizfabriciorex&theme=javascript&border_radius=25&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)">
 </p>
 
  ##
