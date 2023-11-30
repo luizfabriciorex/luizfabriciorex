@@ -1,8 +1,4 @@
-<h2>Olá! Me chamo Fabrício e sejam bem-vindos ao meu perfil😄</h2>
-
-- 🚩 Atualmente, ainda não trabalho como desenvolvedor, mas busco uma oportunidade na área.
-- 📚 Estudando desenvolvimento web e POO com Python🐍. 
-- 🟠 Do you really know how it all works? 
+<h2>Olá! Me chamo Fabrício e sejam bem-vindos ao meu perfil😄</h2>  
 
 <!--Minhas estatísticas-->
 
