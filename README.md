@@ -1,4 +1,4 @@
-<h2>Olá! Me chamo Fabrício e sejam bem-vindos ao meu perfil😄</h2>  
+<h2>Olá! Sejam bem-vindos ao meu perfil</h2>  
 
 <!--Minhas estatísticas-->
 
@@ -24,7 +24,8 @@
   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <br>
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
 </div>
 
 
